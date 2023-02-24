@@ -17,6 +17,31 @@
     
     
     <entry>
+      <title>U3D基本操作</title>
+      <link href="/2023/02/23/U3D%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/"/>
+      <url>/2023/02/23/U3D%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> U3D </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> U3D </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Markdown语法</title>
       <link href="/2023/02/23/Markdown%E8%AF%AD%E6%B3%95/"/>
       <url>/2023/02/23/Markdown%E8%AF%AD%E6%B3%95/</url>
@@ -37,6 +62,18 @@
         <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>这是我的第一个’hexo’博客文章</p>]]></content>
       
       
+      <categories>
+          
+          <category> hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+        </tags>
       
     </entry>
     

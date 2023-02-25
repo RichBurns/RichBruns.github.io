@@ -17,6 +17,19 @@
     
     
     <entry>
+      <title>Markdown语法</title>
+      <link href="/2023/02/23/Markdown%E8%AF%AD%E6%B3%95/"/>
+      <url>/2023/02/23/Markdown%E8%AF%AD%E6%B3%95/</url>
+      
+        <content type="html"><![CDATA[<h1 id="了解Markdown笔记"><a href="#了解Markdown笔记" class="headerlink" title="了解Markdown笔记"></a>了解Markdown笔记</h1><pre><code>[B站视频链接](https://www.bilibili.com/video/BV1Ve4y1s7Qs/?spm_id_from=333.337.search-card.all.click&amp;vd_source=fcb994a32ca82d24d85825cee92c9580)</code></pre><h2 id="以下是常用标签对应效果"><a href="#以下是常用标签对应效果" class="headerlink" title="以下是常用标签对应效果"></a>以下是常用标签对应效果</h2><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><pre><code>使用#并紧接一个空格</code></pre><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><pre><code>使用##并紧接一个空格</code></pre><ul><li>无序列表<br>  使用-并紧接一个空格</li></ul><ol><li>有序列表</li><li>…<br> 使用数字并紧接一个.和一个空格</li></ol><hr><p><em>斜体</em></p><pre><code>左右各一个* </code></pre><p><strong>加粗</strong></p><pre><code>左右各两个*</code></pre><p> <del>删除</del></p><pre><code>左右各两个~</code></pre><p>&#x3D;&#x3D;高亮&#x3D;&#x3D;</p><hr><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">printf</span>(<span class="string">&quot;hello world!&quot;</span>)；<span class="comment">//上下三个```嵌入代码</span></span><br></pre></td></tr></table></figure><hr><p>表格：</p><table><thead><tr><th align="left">姓名</th><th align="center">班级</th></tr></thead><tbody><tr><td align="left">阿强</td><td align="center">667</td></tr></tbody></table>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>U3D基本操作</title>
       <link href="/2023/02/23/U3D%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/"/>
       <url>/2023/02/23/U3D%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/</url>
@@ -36,19 +49,6 @@
             <tag> U3D </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Markdown语法</title>
-      <link href="/2023/02/23/Markdown%E8%AF%AD%E6%B3%95/"/>
-      <url>/2023/02/23/Markdown%E8%AF%AD%E6%B3%95/</url>
-      
-        <content type="html"><![CDATA[<h1 id="了解Markdown笔记"><a href="#了解Markdown笔记" class="headerlink" title="了解Markdown笔记"></a>了解Markdown笔记</h1><pre><code>[B站视频链接](https://www.bilibili.com/video/BV1Ve4y1s7Qs/?spm_id_from=333.337.search-card.all.click&amp;vd_source=fcb994a32ca82d24d85825cee92c9580)</code></pre><h2 id="以下是常用标签对应效果"><a href="#以下是常用标签对应效果" class="headerlink" title="以下是常用标签对应效果"></a>以下是常用标签对应效果</h2><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><pre><code>使用#并紧接一个空格</code></pre><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><pre><code>使用##并紧接一个空格</code></pre><ul><li>无序列表<br>  使用-并紧接一个空格</li></ul><ol><li>有序列表</li><li>…<br> 使用数字并紧接一个.和一个空格</li></ol><hr><p><em>斜体</em></p><pre><code>左右各一个* </code></pre><p><strong>加粗</strong></p><pre><code>左右各两个*</code></pre><p> <del>删除</del></p><pre><code>左右各两个~</code></pre><p>&#x3D;&#x3D;高亮&#x3D;&#x3D;</p><hr><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">printf</span>(<span class="string">&quot;hello world!&quot;</span>)；<span class="comment">//上下三个```嵌入代码</span></span><br></pre></td></tr></table></figure><hr><p>表格：</p><table><thead><tr><th align="left">姓名</th><th align="center">班级</th></tr></thead><tbody><tr><td align="left">阿强</td><td align="center">667</td></tr></tbody></table>]]></content>
-      
-      
       
     </entry>
     
